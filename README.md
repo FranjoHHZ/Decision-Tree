@@ -31,19 +31,9 @@ Ein Classification Report liefert eine detaillierte Bewertung der Modellleistung
 
 # Ergebnisse
 
-Entscheidungsbaum-Modell:
+In diesem Projekt wird die explorative Datenanalyse (EDA) eingesetzt, um ein umfassendes Verständnis der Datenstrukturen zu erlangen. Dazu gehören auch visuelle Darstellungen wie Histogramme, die die Verteilung bestimmter Merkmale aufzeigen. Diese Visualisierungen sind wichtig, um Muster und Zusammenhänge in den Daten zu entdecken, die die Vorhersagegenauigkeit der Modelle beeinflussen können.
 
-Das Modell zeigt eine Accuracy von 85 %, was bedeutet, dass 85 % der Vorhersagen korrekt waren.
-Die Precision für die Klasse 0 (Kredit nicht zurückgezahlt) beträgt 85 %, und für die Klasse 1 (Kredit zurückgezahlt) 47 %.
-Der Recall ist bei 0 sehr hoch (100 %), aber sehr niedrig für 1 (2 %). Dies deutet darauf hin, dass das Modell bei der Vorhersage der Klasse 0 gut ist, aber bei der Klasse 1 (Rückzahlung) schlecht abschneidet.
-Random Forest-Modell:
-
-In der Regel wird erwartet, dass das Random Forest-Modell eine bessere Leistung als der einfache Entscheidungsbaum erbringt, insbesondere bei der Reduzierung von Überanpassung und bei der Verbesserung der Vorhersagegenauigkeit für die Klasse 1.
-Vergleich der Methoden:
-
-Die Confusion Matrix zeigt, dass das Modell sehr gut darin ist, die Fälle zu identifizieren, in denen die Kredite nicht zurückgezahlt wurden (Klasse 0), aber es hat Schwierigkeiten, die Fälle korrekt zu identifizieren, in denen die Kredite zurückgezahlt wurden (Klasse 1).
-Es könnte daher sinnvoll sein, das Random Forest-Modell zu verwenden oder weitere Modelloptimierungen vorzunehmen, um die Vorhersagegenauigkeit zu verbessern, insbesondere für die Klasse 1.
-Dieses Projekt zeigt, wie Entscheidungsbäume und Random Forests verwendet werden können, um die Wahrscheinlichkeit der Rückzahlung von Krediten vorherzusagen, und bietet eine Grundlage für die weitere Optimierung und Verfeinerung des Modells
+Das Hauptziel des Projekts besteht darin, mithilfe von Decision Trees und Random Forests ein Modell zu erstellen, das eine hohe Genauigkeit bei der Klassifizierung erreicht. Die Leistungsfähigkeit der Modelle wird durch Metriken wie Genauigkeit, Präzision, Rückruf und F1-Score bewertet.
 
 
 # Binder Badge
