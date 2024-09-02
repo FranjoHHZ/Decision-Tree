@@ -5,8 +5,9 @@ In diesem Notebook wird eine Entscheidungsbaum- und Random Forest-Klassifikation
 # Ausführung
 Um dieses Jupyter Notebook auszuführen, müssen Sie dem Link des oben genannten Binder-Badges folgen. Öffnen Sie das Notebook „3-Logistische_Regression_Projekt-Loesung.ipynb“. Sobald das Notbook geöffnet wurden, gehen Sie bitte auf den Reiter "Edit" und drücken Sie "Clear Outputs of all Cells". Nachdem Sie das gemacht haben, können Sie auf "Run all Cells" klicken um den Code auszuführen.
 
-Schritte im jupyter Notebooks
-Daten laden und erkunden: Die Daten werden aus einer CSV-Datei in einen Pandas DataFrame geladen. Dann werden grundlegende Informationen über die Daten angezeigt, wie z. B. die Anzahl der Beobachtungen und die Datentypen der Spalten. Die info() und describe() Methoden helfen dabei, einen ersten Überblick über die Daten zu gewinnen.
+Schritte im jupyter Notebooks:
+
+Die Daten werden aus einer CSV-Datei in einen Pandas DataFrame geladen. Dann werden grundlegende Informationen über die Daten angezeigt, wie z. B. die Anzahl der Beobachtungen und die Datentypen der Spalten. Die info() und describe() Methoden helfen dabei, einen ersten Überblick über die Daten zu gewinnen.
 
 Datenaufbereitung und -bereinigung:
 
