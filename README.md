@@ -39,3 +39,8 @@ Das Hauptziel des Projekts besteht darin, mithilfe von Decision Trees und Random
 
 # Binder Badge
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FranjoHHZ/Decision-Tree/master?labpath=3-Decision_Trees_und_Random_Forests_Projekt-Loesung.ipynb)
+
+# Ergebnisse
+
+![image](https://github.com/user-attachments/assets/de76eb4c-94e8-4cdd-846b-c0b2b5d6e8fb)
+
