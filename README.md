@@ -42,5 +42,6 @@ Das Hauptziel des Projekts besteht darin, mithilfe von Decision Trees und Random
 
 # Ergebnisse
 
-![image](https://github.com/user-attachments/assets/de76eb4c-94e8-4cdd-846b-c0b2b5d6e8fb)
+![image](https://github.com/user-attachments/assets/c1248f64-fff4-42bf-ba47-a663bed346aa)
+
 
