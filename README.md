@@ -30,6 +30,17 @@ Ergebnisse anzeigen:
 Die Confusion Matrix zeigt, wie viele positive und negative Fälle korrekt und inkorrekt vom Modell vorhergesagt wurden.
 Ein Classification Report liefert eine detaillierte Bewertung der Modellleistung.
 
+
+# Auführung in Colabs
+
+
+# Decision Tree Project
+
+ Sie können das Projekt einfach auf Google Colab ausführen, indem Sie den folgenden Badge verwenden:
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Decision-Tree/blob/main/3-Decision_Trees_und_Random_Forests_Projekt-Loesung.ipynb)
+
+
 # Ergebnisse
 
 In diesem Projekt wird die explorative Datenanalyse (EDA) eingesetzt, um ein umfassendes Verständnis der Datenstrukturen zu erlangen. Dazu gehören auch visuelle Darstellungen wie Histogramme, die die Verteilung bestimmter Merkmale aufzeigen. Diese Visualisierungen sind wichtig, um Muster und Zusammenhänge in den Daten zu entdecken, die die Vorhersagegenauigkeit der Modelle beeinflussen können.
