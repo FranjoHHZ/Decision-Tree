@@ -36,7 +36,7 @@ Ein Classification Report liefert eine detaillierte Bewertung der Modellleistung
 
 # Auführung in Colabs
 
-Klicken Sie auf den folgenden Badge, um das Projekt direkt auf Google Colab zu öffnen. Bitte führen Sie dort durch das Drücken "Shift"+ "Enter" die Befehle aus.
+Klicken Sie auf den folgenden Badge, um das Projekt direkt auf Google Colab zu öffnen. Bitte führen Sie dort durch das Drücken "Shift"+ "Enter" die Befehle aus oder klicken Sie auf den Reiter "Laufzeit" und dann auf "Alles ausführen".
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Decision-Tree/blob/main/3_Decision_Trees_und_Random_Forests_Projekt_Loesung.ipynb)
 
