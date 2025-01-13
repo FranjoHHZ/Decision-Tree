@@ -40,7 +40,7 @@ Klicken Sie auf den folgenden Badge, um das Projekt direkt auf Google Colab zu Ã
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Decision-Tree/blob/main/3-Decision_Trees_und_Random_Forests_Projekt-Loesung.ipynb)
 
-###Manuell
+### Manuell
 
     !git clone https://github.com/FranjoHHZ/Decision-Tree.git%cd Decision-Tree
 
