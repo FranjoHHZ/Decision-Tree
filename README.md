@@ -36,13 +36,20 @@ Ein Classification Report liefert eine detaillierte Bewertung der Modellleistung
 
 # Auführung in Colabs
 
-
-# Decision Tree Project
-
- Sie können das Projekt einfach auf Google Colab ausführen, indem Sie den folgenden Badge verwenden:
+Klicken Sie auf den folgenden Badge, um das Projekt direkt auf Google Colab zu öffnen. Bitte führen Sie dort durch das Drücken "Shift"+ "Enter" die Befehle aus.
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Decision-Tree/blob/main/3-Decision_Trees_und_Random_Forests_Projekt-Loesung.ipynb)
 
+
+  !git clone https://github.com/FranjoHHZ/DBE-Angleichsleistung-Aufgabe-2.git
+  %cd DBE-Angleichsleistung-Aufgabe-2
+
+    !pip install -r requirements.txt
+
+    !python main_runtime.py
+
+    !python -m unittest test_runtime.py
+    
 
 # Ergebnisse
 
@@ -50,9 +57,6 @@ In diesem Projekt wird die explorative Datenanalyse (EDA) eingesetzt, um ein umf
 
 Das Hauptziel des Projekts besteht darin, mithilfe von Decision Trees und Random Forests ein Modell zu erstellen, das eine hohe Genauigkeit bei der Klassifizierung erreicht. Die Leistungsfähigkeit der Modelle wird durch Metriken wie Genauigkeit, Präzision, Rückruf und F1-Score bewertet.
 
-
-# Binder Badge
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FranjoHHZ/Decision-Tree/master?labpath=3-Decision_Trees_und_Random_Forests_Projekt-Loesung.ipynb)
 
 # Ergebnisse
 
