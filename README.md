@@ -2,7 +2,10 @@
 
 In diesem Notebook wird eine Entscheidungsbaum- und Random Forest-Klassifikation verwendet, um vorherzusagen, ob ein Kreditnehmer bei LendingClub.com einen Kredit zurückzahlen wird oder nicht. Die Daten umfassen verschiedene Merkmale der Kreditnehmer, die zur Vorhersage verwendet werden können. Das Ziel besteht darin, ein Modell zu erstellen, das anhand dieser Merkmale die Rückzahlung des Kredits vorhersagt. Wir werden Daten von 2007 bis 2010 verwenden, bevor das Unternehmen an die Börse ging. Anhand der Daten werden wir versuchen vorherzusagen, ob ein Leihender das Geld zurückgezahlt hat oder nicht.  
 
-# Ausführung
+# Ausführung MyBinder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FranjoHHZ/Decision-Tree/master?labpath=3-Decision_Trees_und_Random_Forests_Projekt-Loesung.ipynb)
+
 Um dieses Jupyter Notebook auszuführen, müssen Sie dem Link des oben genannten Binder-Badges folgen. Öffnen Sie das Notebook „3-Logistische_Regression_Projekt-Loesung.ipynb“. Sobald das Notbook geöffnet wurden, gehen Sie bitte auf den Reiter "Edit" und drücken Sie "Clear Outputs of all Cells". Nachdem Sie das gemacht haben, können Sie auf "Run all Cells" klicken um den Code auszuführen.
 
 Schritte im jupyter Notebooks:
