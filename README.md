@@ -49,7 +49,7 @@ Das Hauptziel des Projekts besteht darin, mithilfe von Decision Trees und Random
 
 # Ergebnisse
 
-classification_report:
+classification report:
 
 
 ![image](https://github.com/user-attachments/assets/08e24b36-3e69-415a-95ee-7a2eaf45179f)
